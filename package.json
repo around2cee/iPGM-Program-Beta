@@ -1,0 +1,7 @@
+{
+  "name": "ipgm-program-beta",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "iPGM Program Beta - Hub & Spoke POC spoke repo",
+  "scripts": { "start": "node src/index.js" }
+}
